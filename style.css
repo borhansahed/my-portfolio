@@ -1,0 +1,16 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+h1{
+    font-size: 50px;
+}
+.text-color{
+    color:rgb(163, 117, 32);
+}
+section{
+    display: flex;
+}
+.picutre-sahed{
+    width: 100%;
+}
