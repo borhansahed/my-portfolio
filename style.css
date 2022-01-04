@@ -5,13 +5,14 @@ body{
 }
 h1{
     font-size: 50px;
+    
 }
 .text-color{
     color:rgb(163, 117, 32);
 }
-section{
+.flexing{
     display: flex;
-    margin-bottom: 20px;
+    margin-bottom: 150px;
 }
 .first-div{
     width: 50%;
@@ -19,6 +20,10 @@ section{
 }
 .first-div img{
           width: 80%;
+
+}
+.first-div h2{
+    font-size: 40px;
 }
 .anchor{
     text-decoration: none;
@@ -39,5 +44,23 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    
     }
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+         
+
+}
+.hero{
+    box-shadow: 10px 10px 20px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    padding: 10px 20px ;
+  
+
+
+}
     
